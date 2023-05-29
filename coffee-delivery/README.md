@@ -1,13 +1,13 @@
-# Coffee Delivery
+# ☕ Coffee Delivery ☕
 ---
 
 <div align="center">
- <img src="/assets/coffee-delivery.png" height="857" />
+ <img src="assets/coffee-delivery.png" height="857" />
 </div>
 
 <br><br>
 
-## ✨💡 Functionalities 💡✨
+## 💡 Functionalities 💡
 
 ---
 
@@ -41,13 +41,13 @@ This challenge is about to create a coffee shop page where you can to select and
 
 <br><br>
 
-## Imagens
+## 📸 Imagens 📸
 
 ---
 
 <br><br>
 
-<img src="/assets/confirm-order.png" width="600" height="500" />
+<img src="assets/confirm-order.png" />
 
 <br><br>
 
