@@ -27,7 +27,7 @@ export function Header() {
   }
 
   return (
-    <HeaderContainer>
+    <HeaderContainer isCenter={isSuccessPath}>
       <Link href='/'>
         <Image src={logoImg} alt="Logo" />
       </Link>

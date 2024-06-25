@@ -6,7 +6,20 @@ export const HeaderContainer = styled('header', {
   maxWidth: 1180,
   margin: '0 auto',
   display: 'flex',
-  justifyContent: 'space-between',
+
+  variants: {
+    isCenter: {
+      true: {
+        justifyContent: 'center',
+      },
+      false: {
+        justifyContent: 'space-between',
+      }
+    }
+  },
+  defaultVariants: {
+    isCenter: 'false'
+  }
 })
 
 export const CartCountContainer = styled('div', {
